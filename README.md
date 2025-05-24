@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hey there! Welcome to my GitHub space!<br>I’m on a mission to:<br><br>🚀 Dive deeper into the fascinating world of deep learning – because teaching machines to think (kind of) is just too cool to pass up!<br><br>🌍 Contribute to open source – sharing is caring, right? I believe in making the coding world a better place, one pull request at a time.<br><br>🎨 Work on fun projects – from quirky experiments to solving real-world problems, I like keeping my projects as dynamic as my caffeine consumption.<br><br>When I’m not coding, you’ll probably find me:<br><br>📚 Reading about crime, mystery, or thrilling escapades.<br><br>🧩 Solving puzzles or testing my logic (the harder, the better!).<br><br>☕ Dreaming up the next big idea over a cup of coffee.
+👋 Hey there! Welcome to my GitHub space!<br>I’m on a mission to:<br><br>I’m on a mission to:
+🚀 Explore deep learning – teaching machines to 'think' is too cool to miss!
+🌍 Contribute to open source – sharing is caring, one pull request at a time.
+🎨 Build dynamic projects – from fun experiments to real-world solutions.<br><br>When I’m not coding, you’ll probably find me:<br><br>📚 Reading about crime, mystery, or thrilling escapades.<br><br>🧩 Solving puzzles or testing my logic (the harder, the better!).<br><br>☕ Dreaming up the next big idea over a cup of coffee.
 
 
 ## 🌐 Socials:
