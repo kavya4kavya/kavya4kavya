@@ -21,7 +21,7 @@ jobs:
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: main # Ensure this branch exists
+          target_branch: output # Ensure this branch exists
           build_dir: .          # Use the root directory if the output is in the current directory
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
