@@ -21,7 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kavya4kavya&icon=2&color=5)](https://visitcount.itsvg.in)
 
----
-![snake animation](https://github.com/kavya4kavya/kavya4kavya/blob/main/github-contribution-grid-snake.svg)
+
 
 
